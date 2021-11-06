@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.3"
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "cz.mzk.kramerius.app"
         minSdkVersion 21
-        targetSdkVersion 29
-        versionCode 31
-        versionName "2.0.1"
+        targetSdkVersion 30
+        versionCode 32
+        versionName "2.0.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
